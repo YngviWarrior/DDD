@@ -1,0 +1,6 @@
+giulia&igor
+
+O que é DDD ?
+    Uma forma de desenvolver software com foco no coração da aplicação (Domínio).
+    Tendo objetivo de entender suas regras, processos, e complexidade, separando de outros pontos complexos que
+normalmente são adicionados durante o processo de desenvolvimento.
