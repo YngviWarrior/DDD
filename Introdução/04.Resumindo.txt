@@ -1,0 +1,3 @@
+Em resumo: DDD é a modelagem de forma explicita com uma linguagem universal dentro de um contexto.
+
+A linguagem determinar um contexto, e um contexto determina a clareza ao conversar sobre o software.

@@ -1,0 +1,9 @@
+Domínio é toda a complexidade do software, ao olhar esse domínio, indentificaremos os possíveis subdomínios.
+
+Dentro do domínio:
+    Haverá o subdomínio principal, chamado core domain. Não há negócio sem esse domínio. O coração do negócio ou diferencial competitivo da empresa. 
+        Ex: Vender um produto.
+    Haverá o support subdomain. Domínio que apoia o core domain. 
+        Ex: uma central de cobrança ou de vendas.
+    Haverá subdomínios genéricos. Onde não há tanto diferencial competitivo pra a empresa.
+        Ex: Geração de boletos, mas não é algo que gera diferencial competitivo.

@@ -1,0 +1,4 @@
+Bounded Context
+
+Divisão explicita dentro de uma parte do domínio.
+Tudo que é específico a aquele domínio, deve haver uma terminologia. A terminologia determina o contexto. (Linguagem Ubíqua).

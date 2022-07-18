@@ -1,0 +1,8 @@
+Entender com profundidade o domínio e subdomínios da aplicação.
+    Dominío é o coração do software, é a atividade, assunto principal do software.
+
+Ter um linguagem universal(linguagem ubíqua) entre todos os envolvidos.
+Criar o design estratégico utilizando Bounded Contexts.
+Criar o design tático para conseguir mapear e agregar as entidades e objetos de valor da aplicação, bem como os eventos de domínio.
+
+Clareza do que é complexidade de negócio e complexidade técnica.

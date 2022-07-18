@@ -1,0 +1,6 @@
+Contexto1 (Venda de Ingressos) X Contexto2 (Suporte ao cliente)
+
+Cliente pode participar em vários contextos. 
+A modelagem dele pode ficar gigantes agregando várias perspectivas(contextos) em uma classe.
+
+O DDD faz com que a entidade cliente seja diferente para cada contexto, gerando 2 modelagens.

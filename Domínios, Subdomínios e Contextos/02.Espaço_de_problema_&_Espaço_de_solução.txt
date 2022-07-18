@@ -1,0 +1,10 @@
+Problema VS Solução
+
+Problema -> Visão geral do domínio e suas complexidades...
+    Dividindo em subdomínios.
+
+Solução -> Análise e modelagem do domínio.
+    Contextos delimitados.
+
+
+*Racionalizar o problema, delimitando-os em contextos isolados e delimitados.

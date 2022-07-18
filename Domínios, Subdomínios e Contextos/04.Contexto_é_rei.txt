@@ -1,0 +1,8 @@
+O contexto sempre vai determinar áreas, tipos de problemas,
+ e que a linguagem que é usada em cada contexto tem significados diferentes.
+
+EX: Contexto1 (Venda de ingresso) x Contexto2 (Supp ao cliente)
+
+Ticket (2 significados totalmente diferêntes)
+
+Em sistemas monolíticos haverá 2 entidades tickets diferentes.
