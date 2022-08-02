@@ -1,0 +1,12 @@
+Padrões já existentes:
+    Partnership (parceria entre times e contextos)
+    Shared Kernel (SDK)
+    Costumer Supplier Development (Upstrem, Downstream)
+    Conformist
+    AntiCorruptionLayer
+    Open Host Service
+    Published Language
+    Separate Ways
+    Big Ball of Mud
+
+https://github.com/ddd-crew/contextmapping

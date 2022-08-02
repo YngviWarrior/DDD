@@ -1,0 +1,16 @@
+Modelagem Estratégica
+
+4 Contextos:
+    1) Vendas de ingressos online
+    2) Supporte ao Cliente
+    3) Vendas de ingressos por parceiros
+    4) Pagamento
+
+
+Relação entre Contexto 1 --para--> 2. Podendo haver um (Shared Kernel), um núcleo entre os 2 contextos(criação de um SDK).
+Relação entre contexto 1(Downstream) --para--> 4(Upstream). O Upstream dita como será implementada, o Downstream se adapta.
+Relação entre 2(Downstream) --para--> 1(Upstream). Up e Downstream é definido na modelagem, não há certo e errado na definição de quem é ôque.
+
+
+Relação conformista é conformar com o Upstream de uma API de terceiros, como um Gateway de pagamentos.
+ACL (Anti Corruption Layer) Camada de interface para o Gateway, minimizando o atrelamento de ao fornecedor da API.

@@ -4,4 +4,4 @@ Softwares complexos
     Grandes projetos tem muitas regras de negócios e muitos contextos. Deve-se avaliar qual é o coração da "empresa".
     Não há como não utilizar técnicas avançadas em projetos de alta complexidade.
     Grande parte da complexidade desse tipo de software não vem da tecnologia, mas da comunicação, separação de contextos,
-entendimento do negócio por diversos ângulos, gerando gargalo em trazer o entendimento para a tecnologia.
+entendimento do negócio por diversos ângulos, podendo gerar gargalo em trazer o entendimento para a tecnologia.
